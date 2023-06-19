@@ -1,5 +1,5 @@
 # rtsp-client
-An C++ rtsp client.
+A C++ rtsp client.
 ## Build
 cd rtsp-client  
 mkdir -p release/inc  
